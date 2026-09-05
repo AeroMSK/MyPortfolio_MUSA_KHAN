@@ -23,7 +23,7 @@ export const siteConfig = {
   // Social
   githubUsername: "AeroMSK",
   githubUrl: "https://github.com/AeroMSK",
-  linkedinUrl: "https://www.linkedin.com/in/musa-khan-ab43601aa",
+  linkedinUrl: "https://www.linkedin.com/in/hello-musa-khan",
   instagramUrl: "https://www.instagram.com/khan.exe_404",
   facebookUrl: "https://www.facebook.com/share/1HpCWBDbDw/",
 
